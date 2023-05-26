@@ -16,7 +16,7 @@ class Car extends Vehicle {
 
 class Scooter extends Vehicle {
 	void start() {
-		System.out.println("Scooter start with kick.");
+		System.out.println("Scooter start with kick or else.");
 	}
 }
 public class Abstract {
