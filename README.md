@@ -1,1 +1,1 @@
-# In Core-Java repository basic of java language is included.
+# In 'Core-Java' repository basic programs of java language is included.
